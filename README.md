@@ -14,7 +14,7 @@ Before running the application, make sure you have the following installed on yo
 ## Getting Started
 
 1. **Clone the Repository:**
-
+git clone https://github.com/pgsohail/user-management
 
 For the frontend (React):
 cd user-management-app
