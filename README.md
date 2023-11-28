@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed on yo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/user-management-app.git
+   git clone [https://github.com/your-username/user-management-app.git](https://github.com/pgsohail/user-management)
    cd user-management-app
 Install Dependencies:
 
